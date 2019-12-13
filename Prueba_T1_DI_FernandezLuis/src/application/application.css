@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+*{
+    -fx-font-family: 'Poiret One', cursive;
+}
+.header{
+	-fx-background-image: url("../../view.assets/sky.jpeg");
+    -fx-background-size: 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+.footer{
+	-fx-background-color: #FF9900;
+}
+
+.imgMars{
+	-fx-background-radius: 50;
+}
+
+.btnAcceso{
+	-fx-background-color: #FF9900;
+}
+
+.btnAcceso:hover{
+	-fx-background-color: #FDCB72;
+}
+
+.btnClose{
+	-fx-background-radius: 10;
+	-fx-font-size: 25;
+	-fx-font-weight: bold;
+	-fx-background-color: #FDFEFE;
+}
+.btnClose:hover{
+	-fx-background-color: #FDCB72;
+}
+.labels{
+	-fx-background-color: #FF9900;	
+	-fx-background-radius: 100;
+}
+.labels:hover{
+	-fx-background-color: #FDCB72;	
+}
